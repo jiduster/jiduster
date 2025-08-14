@@ -1,6 +1,6 @@
 ## Hi, I'm Yuheng Zhao!  👋
-🔭 I’m currently working on robotic manipulations and imitation learning
-📫 How to reach me: 2021-zyh@sjtu.edu.cn
+- 🔭 I’m currently working on robotic manipulations and imitation learning
+- 📫 How to reach me: 2021-zyh@sjtu.edu.cn
 <!--
 **jiduster/jiduster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
